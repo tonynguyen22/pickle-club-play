@@ -1,6 +1,6 @@
 {
   "version": "0.38.0-serve-and-receive",
-  "digest": "55d48c46c594db93",
+  "digest": "d1539512bd4f263c",
   "bytes": 23581430,
   "files": [
     {
@@ -226,7 +226,8 @@
     {
       "url": "index.html",
       "bytes": 2745,
-      "hash": "1c87dcd672d58677d64818601c59b3013616faa1d3a9305e4e163bc1ff994e1b"
+      "hash": "1c87dcd672d58677d64818601c59b3013616faa1d3a9305e4e163bc1ff994e1b",
+      "documentSource": "game-shell.bin"
     },
     {
       "url": "licenses/Nunito-Sans-OFL.txt",
