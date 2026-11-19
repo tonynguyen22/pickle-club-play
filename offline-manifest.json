@@ -1,7 +1,7 @@
 {
-  "version": "0.38.0-serve-and-receive",
-  "digest": "d1539512bd4f263c",
-  "bytes": 23581430,
+  "version": "0.39.0-drive-and-net",
+  "digest": "cae922a4a8d40f24",
+  "bytes": 23581504,
   "files": [
     {
       "url": "app/apple-touch-icon.png",
@@ -19,9 +19,9 @@
       "hash": "cbad7578fa9f5f7df51372a0e860cecdf989ac3c3cab41fa72bf69b45bc1534b"
     },
     {
-      "url": "assets/game-DQytZICP.js",
+      "url": "assets/game-DVUeLw1v.js",
       "bytes": 1369,
-      "hash": "407a784702f1a88fdec16e0bc64940918bd4e0addf011ecf24ab5226e3b6c96c"
+      "hash": "e9abc82d0eab2dbbe1c3a6bd146facf58f8d4d82018a3e414504653ce80a5653"
     },
     {
       "url": "assets/main-C8bbj1qC.css",
@@ -29,9 +29,9 @@
       "hash": "4ccaa893a64bda9aa5b3908b55283f00e91b882de4475e2d93d91b95669b2729"
     },
     {
-      "url": "assets/main-Dqu762TY.js",
-      "bytes": 2362509,
-      "hash": "1e96755a69fbde703729419165e43c41abf77594bbb8f6bdb9a56705770d1e8e"
+      "url": "assets/main-CquMXt8D.js",
+      "bytes": 2362583,
+      "hash": "1362a40f9789e97932451b0d7cb7497e55cdc8110ca35319e24ed75cc08f03c3"
     },
     {
       "url": "assets/nunito-sans-latin-BWQ3gi2K.woff2",
@@ -226,7 +226,7 @@
     {
       "url": "index.html",
       "bytes": 2745,
-      "hash": "1c87dcd672d58677d64818601c59b3013616faa1d3a9305e4e163bc1ff994e1b",
+      "hash": "e596dbc41ce145e5188e423ad48cb8d68494a0a9230d2b6d8a1f4f71d60e8db8",
       "documentSource": "game-shell.bin"
     },
     {
