@@ -1,7 +1,7 @@
 {
-  "version": "0.40.0-athlete-motion",
-  "digest": "67db95313fcaf813",
-  "bytes": 23583588,
+  "version": "0.41.0-forehand-grip",
+  "digest": "f3ca00ba0a25793d",
+  "bytes": 23586834,
   "files": [
     {
       "url": "app/apple-touch-icon.png",
@@ -19,19 +19,19 @@
       "hash": "cbad7578fa9f5f7df51372a0e860cecdf989ac3c3cab41fa72bf69b45bc1534b"
     },
     {
-      "url": "assets/game-DLIbbTwz.js",
+      "url": "assets/game-DpfaoxGx.js",
       "bytes": 1369,
-      "hash": "83222b926a5ce13a028c64a6b4774605f4623ec6230c44cace2377702337c920"
-    },
-    {
-      "url": "assets/main-BUv5wgQw.js",
-      "bytes": 2364667,
-      "hash": "94cf5bb4fbe1e50e6196f28b22a102676519b5aab6c92af232892abdf30a9286"
+      "hash": "d1002d945a52b931918a5e7d25436b3474ba88996706494312d684df9c32d6e0"
     },
     {
       "url": "assets/main-C8bbj1qC.css",
       "bytes": 122058,
       "hash": "4ccaa893a64bda9aa5b3908b55283f00e91b882de4475e2d93d91b95669b2729"
+    },
+    {
+      "url": "assets/main-Ds97eQtG.js",
+      "bytes": 2367913,
+      "hash": "171023333d91d3fdf9ce77545198ad15f5af2e8852c8afe27b96e171f68e29ef"
     },
     {
       "url": "assets/nunito-sans-latin-BWQ3gi2K.woff2",
@@ -226,7 +226,7 @@
     {
       "url": "index.html",
       "bytes": 2745,
-      "hash": "02af5414134880c08674198f11ff4fe009e24042c45c14d9029ce8e711048c7b",
+      "hash": "2e4365f65fe5ebc25c8e9523bd314aefb6ce1763493eb7345b5c7d79d55218b9",
       "documentSource": "game-shell.bin"
     },
     {
