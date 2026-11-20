@@ -1,0 +1,12 @@
+<!doctype html><html lang="vi"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>Nhân vật gốc · A5</title>  <script type="module" crossorigin src="./assets/review-CO867vHO.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-P2Xu9kJm.js">
+  <link rel="modulepreload" crossorigin href="./assets/power-wake-CEkMfRYr.js">
+  <link rel="stylesheet" crossorigin href="./assets/review-DobfGqas.css">
+</head>
+<body><main id="studio"><canvas aria-label="Nhân vật gốc 3D có chuyển động"></canvas>
+<header><a href="./" aria-label="Về bản chơi">←</a><span>Nhân vật gốc </span><button id="turn" aria-label="Xoay Nhân vật gốc">↻</button></header>
+<div class="loading" id="loading">Đang mở Nhân vật gốc…</div>
+<aside><button data-camera="front" aria-pressed="true">Mặt</button><button data-camera="side" aria-pressed="false">Cạnh</button><button data-camera="back" aria-pressed="false">Lưng</button><button data-camera="court" aria-pressed="false">Trong sân</button></aside>
+<footer><div class="motions" role="group" aria-label="Động tác"></div>
+<div class="transport"><select id="model" aria-label="Nhân vật"><option value="male">Nam</option><option value="female">Nữ</option></select><button id="pause" aria-label="Dừng chuyển động">Ⅱ</button><input id="timeline" type="range" min="0" max="4.8" step="0.008333333" value="0" aria-label="Thời điểm"><select id="rate" aria-label="Tốc độ"><option value="1">1×</option><option value=".5">0.5×</option><option value="2">2×</option></select><button id="hand" aria-pressed="false">Tay phải</button></div>
+<div class="caption"><span id="phase">Đứng chờ</span><select id="wing" aria-label="Phía bóng"><option value="forehand">Thuận tay</option><option value="backhand">Trái tay</option></select><select id="power" aria-label="Lực đánh"><option value=".3">Nhẹ</option><option value=".78" selected>Vừa</option><option value=".95">Mạnh</option></select><a href="./">Vào sân ↗</a></div></footer></main></body></html>
