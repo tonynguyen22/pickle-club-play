@@ -1,7 +1,7 @@
 {
   "version": "0.44.0-training-strokes",
-  "digest": "f8046312f9bf7e41",
-  "bytes": 23605263,
+  "digest": "f93d6d603ad0190c",
+  "bytes": 23605291,
   "files": [
     {
       "url": "app/apple-touch-icon.png",
@@ -19,9 +19,9 @@
       "hash": "cbad7578fa9f5f7df51372a0e860cecdf989ac3c3cab41fa72bf69b45bc1534b"
     },
     {
-      "url": "assets/game-H0u-EG0n.js",
+      "url": "assets/game-CN1WC_Ls.js",
       "bytes": 773,
-      "hash": "67421a80303c55cc9923ca33e4f162417eb4ebfba1535f81fa9a98d64b6f2b7d"
+      "hash": "f0a9e10d184d4513c26b0ec2de9eb2ef9c8d751b1c0a4028db8208a38498c84c"
     },
     {
       "url": "assets/main-Bc1oUfgc.css",
@@ -29,9 +29,9 @@
       "hash": "8a1b9724c477562c27143bbd7340d1a2f267a7dfc3dc6b776891bd85418f8215"
     },
     {
-      "url": "assets/main-DAVUAhdX.js",
+      "url": "assets/main-ByOC7oOO.js",
       "bytes": 209282,
-      "hash": "79ad60aa6743e1966ab6734ca6c23bd052569fd724dfd82cf6ed84a98993e668"
+      "hash": "9f1d6ea9b8e51e9dd7cd7590081f9e8557fbd6561d7533afb6ee7fa650703df9"
     },
     {
       "url": "assets/modulepreload-polyfill-P2Xu9kJm.js",
@@ -54,9 +54,9 @@
       "hash": "07a73cdc9b2b788d9644b41a117dfd84402ea4cfc8c192254b30e9b806aa1ac2"
     },
     {
-      "url": "assets/power-wake-B2vc5OVP.js",
-      "bytes": 2165280,
-      "hash": "98e7d3175e0dfadf7371a4656fd2eea167887552e83e946be6666bcb30b9de6e"
+      "url": "assets/power-wake-Bl54leAZ.js",
+      "bytes": 2165290,
+      "hash": "6a84745697246595dbf6dac39809413b259376926131ddf15259d82cd0d64d3b"
     },
     {
       "url": "assets/preload-helper-Bv5dn2FP.js",
@@ -64,14 +64,14 @@
       "hash": "56236d7bbc83c1164e70c475d2e8179a118da3e921f8386c5274a32a03e0db79"
     },
     {
+      "url": "assets/review-2satMvXv.js",
+      "bytes": 7916,
+      "hash": "e98b831b43b823a918dcd72a13fbb441d1726771751ca854e7ff2d8ab51ce124"
+    },
+    {
       "url": "assets/review-DobfGqas.css",
       "bytes": 2781,
       "hash": "c0341e580e5defdf05deb8b6a1819c2b6d55b6965008d773c12d5ec7d8cbdc1b"
-    },
-    {
-      "url": "assets/review-DrkCk4ms.js",
-      "bytes": 7898,
-      "hash": "0f83b4053e59da23ade21cc65fb7bfe0507cdc3f188d461938215b2766dd385f"
     },
     {
       "url": "assets/rolldown-runtime-WkwZ5CU-.js",
@@ -246,7 +246,7 @@
     {
       "url": "index.html",
       "bytes": 2837,
-      "hash": "361796ad42de89b10967d1e39284bb55adff29aa294be21abfe93bb2ce55b2fb",
+      "hash": "d3f45273deb8fc63c08ce2cccc203ecd8caa3736f263b088a0b3d10a68c8d8ff",
       "documentSource": "game-shell.bin"
     },
     {
@@ -277,7 +277,7 @@
     {
       "url": "review.html",
       "bytes": 2167,
-      "hash": "370287aab7eef3e65424f11a8adee85cb3f7a2b23a8760a7acfb83636a4d4ae3",
+      "hash": "65536668536236c411528feca4fbb30c67648fd6d787b4b70e586262a99d59d7",
       "documentSource": "review-shell.bin"
     },
     {
