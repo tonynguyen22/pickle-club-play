@@ -1,7 +1,7 @@
 {
-  "version": "0.52.0-online-doubles",
-  "digest": "8ea897f8b9c6a28c",
-  "bytes": 23622223,
+  "version": "0.54.0-club-locker",
+  "digest": "68f958937f676efa",
+  "bytes": 24366002,
   "files": [
     {
       "url": "app/apple-touch-icon.png",
@@ -19,19 +19,19 @@
       "hash": "cbad7578fa9f5f7df51372a0e860cecdf989ac3c3cab41fa72bf69b45bc1534b"
     },
     {
-      "url": "assets/game-D06JmAs2.js",
+      "url": "assets/game-tItrpDcB.js",
       "bytes": 1369,
-      "hash": "ce9930ec7f8852eda54adc5272cd9dfed551475ecc4606b4836200499f54a065"
+      "hash": "3c47ebe3152cbf6df711013ca6efeca8ac0359e07545e8feb59caa3a43c3e888"
     },
     {
-      "url": "assets/main-9sxdAmXj.js",
-      "bytes": 2399136,
-      "hash": "fb3c9e59ba4ef7de287bd1df92317f2a684a3587b71a0d84d2860b3e194a7fff"
+      "url": "assets/main-DM-PPmIK.css",
+      "bytes": 127828,
+      "hash": "3fe6b126dfabe468131051c108f1a4cf2c207258e482981c7796f7c310c11f2b"
     },
     {
-      "url": "assets/main-N7PxROLy.css",
-      "bytes": 126224,
-      "hash": "ecbacfe2082b4326b7d255ac5ffb56348f949094696fe74c2c3d36b5d0821313"
+      "url": "assets/main-sClxjZdO.js",
+      "bytes": 2405541,
+      "hash": "413b65f88de37963705c671c7bb6a4e65f9aa8daba24446f95c2c28b8d892590"
     },
     {
       "url": "assets/nunito-sans-latin-BWQ3gi2K.woff2",
@@ -226,7 +226,7 @@
     {
       "url": "index.html",
       "bytes": 2745,
-      "hash": "72e1ee836248d2c602328285a33882a126e93adfe64e775eaa16a0c5ac491030",
+      "hash": "8b28d73ef4c093ea98eb875167b04d4b02de59a7f783befc82bcb45ac7f2d22c",
       "documentSource": "game-shell.bin"
     },
     {
@@ -253,6 +253,36 @@
       "url": "manifest.webmanifest",
       "bytes": 577,
       "hash": "9408a7aeec46ed0e4be11bd97b12e9a022c12a0451553c89d4d3d852c8ffcca2"
+    },
+    {
+      "url": "skill-films/control.mp4",
+      "bytes": 121329,
+      "hash": "b42a2e17707891b476d98f82cdd3ade14cc7cac09a8f7557d83e83a47848c6e6"
+    },
+    {
+      "url": "skill-films/power.mp4",
+      "bytes": 100755,
+      "hash": "409eb734853c5f5ad4af29fd65df4ce8eb7d5636439a422a863d6ba953655d78"
+    },
+    {
+      "url": "skill-films/reflex.mp4",
+      "bytes": 54801,
+      "hash": "959bae127fd180c315985614b0847a94ebbfd3bdf87a175cbb261d7ed78b56a9"
+    },
+    {
+      "url": "skill-films/speed.mp4",
+      "bytes": 53221,
+      "hash": "2cbcc403693e7ea6fda3c682b88be7752e3e5cb8d36846620c072ebbe6e1294f"
+    },
+    {
+      "url": "skill-films/spin.mp4",
+      "bytes": 101725,
+      "hash": "d500b26e8eed8b439182d4a306767dd6064d8ad5a82843ef9b8fa2d859344afc"
+    },
+    {
+      "url": "skill-films/touch.mp4",
+      "bytes": 57519,
+      "hash": "21a55a95d66ac953d2463e5d32f2c76cca2a2c6469b3936302b12c91b4473062"
     },
     {
       "url": "studio-art/athlete-balanced.webp",
@@ -336,28 +366,28 @@
     },
     {
       "url": "studio-art/club-afterhours-paddle--long.webp",
-      "bytes": 8400,
-      "hash": "0ef7170b81002c85fcd1b2446d8fa3dde8fba46ac1c0bfb49fc2304d97c6b8af"
+      "bytes": 8798,
+      "hash": "dced77d4fd1e6a9ff8d098e1f3969b6fa6fa2a0dc780660118e1e24ada8d85c5"
     },
     {
       "url": "studio-art/club-afterhours-paddle--wide.webp",
-      "bytes": 9016,
-      "hash": "58096550b268f0d87c6b2a7b224c3e77ccfed5238644cc3743263158c306b122"
+      "bytes": 9720,
+      "hash": "b7c988e84451cdbfecfe3650c899de8fb71c2f5073ff88e72679e2bd7e12f1bf"
     },
     {
       "url": "studio-art/club-afterhours-paddle.webp",
-      "bytes": 8598,
-      "hash": "5a5256735af9d1d798ab33b6075594b51f02a13a46e5f36cdd1180d531a992a0"
+      "bytes": 9252,
+      "hash": "774d636d5a5cb00944333a56dbc83dc37d9d44851cbb94fc844fbc9f7e5a0290"
     },
     {
       "url": "studio-art/club-afterhours-shoe--female.webp",
-      "bytes": 9616,
-      "hash": "07d3ab2470edf5e223e0968525f65128610cfb4bcf60d3f8645317eb27699ff7"
+      "bytes": 19476,
+      "hash": "966bb512aa11778af601346acf859b1caa1201aec60284e8290710f89f5854ec"
     },
     {
       "url": "studio-art/club-afterhours-shoe.webp",
-      "bytes": 9620,
-      "hash": "326112b17fa2c8b91fa380f0dcc3d3b6d16d6f6fc4200513eaf90a195e2dade6"
+      "bytes": 19728,
+      "hash": "6ee8a2520723e54d77e1953336f66f594815e39dec70ed0d564824009d60fe0c"
     },
     {
       "url": "studio-art/club-afterhours-wrist.webp",
@@ -406,28 +436,28 @@
     },
     {
       "url": "studio-art/club-courtside-paddle--long.webp",
-      "bytes": 10218,
-      "hash": "dfc801f14a4d5b1a86dcc50fb64173f1eac65baf514acc1aefdbf1005e0df1b9"
+      "bytes": 10402,
+      "hash": "8e102f186a16610ce885ffe943473e60d81700a01889aaf272298725a16dd085"
     },
     {
       "url": "studio-art/club-courtside-paddle--wide.webp",
-      "bytes": 10926,
-      "hash": "554af21864be09dcc16212c7737dbf985a37fea433621a67b1dfbb7660ef1be3"
+      "bytes": 11356,
+      "hash": "294f4242c82c47af967d7000d0a616d23401f4d491342de540446206941a114b"
     },
     {
       "url": "studio-art/club-courtside-paddle.webp",
-      "bytes": 10708,
-      "hash": "29cc120468dc4a6ee46d0de3e811883a0fdf2a4626060222f62e0833eedeb502"
+      "bytes": 10846,
+      "hash": "3c25a36693b2c8a62965a3c87042edd70b1d5e59dc73fa7dda3aa8555f565a56"
     },
     {
       "url": "studio-art/club-courtside-shoe--female.webp",
-      "bytes": 9958,
-      "hash": "0b64f9ccc385e929f93a08c2bcb0ce8d10b7fb07eacd5c24006925623009c225"
+      "bytes": 20208,
+      "hash": "e4413b3d385b257e9f8dd2ae07c826075bffdacace2c874ebfd169ee96d4973a"
     },
     {
       "url": "studio-art/club-courtside-shoe.webp",
-      "bytes": 9970,
-      "hash": "8ad5db30a1655528f5b8cb803dbd5ccbb90e3f6483f4b6a502ce8aca3767790f"
+      "bytes": 20302,
+      "hash": "b9837fcf48029388ac69989ce8ad0694b83b15ec8af0c4cc73aeb80779105981"
     },
     {
       "url": "studio-art/club-courtside-visor.webp",
@@ -486,18 +516,18 @@
     },
     {
       "url": "studio-art/club-matchpoint-paddle--long.webp",
-      "bytes": 10990,
-      "hash": "6348423df93e2a077d2bc813bf266ed31b20d978aaedf73555de68549e1d664d"
+      "bytes": 10868,
+      "hash": "e5f6946eeb8e997dab29059005f4bbb50596907704502f86d597acf4fb907c9c"
     },
     {
       "url": "studio-art/club-matchpoint-paddle--wide.webp",
-      "bytes": 11738,
-      "hash": "b91aaca014c43f55fd0ce652fe7f4a61f9f32db6d871560b3bb27a9abbc2d753"
+      "bytes": 12158,
+      "hash": "42ea34a18c2f2ef5d99753aac11ff23620fbe96f264a1864785e220123e74521"
     },
     {
       "url": "studio-art/club-matchpoint-paddle.webp",
-      "bytes": 11914,
-      "hash": "c346181a155afbadb9cd8528634ace8f2831fe1ce1287f1e6db2a56e4c3c4023"
+      "bytes": 11580,
+      "hash": "858980014117a4bfdf592b54d5343814f5b85369168620a717cb184e84f1d1e0"
     },
     {
       "url": "studio-art/club-matchpoint.webp",
@@ -541,28 +571,28 @@
     },
     {
       "url": "studio-art/club-papaya-paddle--long.webp",
-      "bytes": 11982,
-      "hash": "f68a5b7b7f617609eaa48e27e5624d4e0856758c662239ea3dba76bfa42bb2dc"
+      "bytes": 12132,
+      "hash": "ce8084f01ab5123b20d1ac387815647cb368c338eecdd55b5991e3f59e9eb812"
     },
     {
       "url": "studio-art/club-papaya-paddle--wide.webp",
-      "bytes": 12920,
-      "hash": "f197cd86398e46db20c5889dce3a0157c2d01fdf8ad7d1e3cd8fa527f615f43a"
+      "bytes": 13436,
+      "hash": "551642db06418c48d18dbd736ad1f875478f9941e5580d687a4d5c8d7e3ca991"
     },
     {
       "url": "studio-art/club-papaya-paddle.webp",
-      "bytes": 12446,
-      "hash": "6dce8a42c76fbed0fc935b442f86cfb9fce28a1f61c41fcb32c174dc5d1646a3"
+      "bytes": 12710,
+      "hash": "17ff583f173cc5ba958972779c65a9efd3ae1e8403ab3ebc892b51195251d05b"
     },
     {
       "url": "studio-art/club-papaya-shoe--female.webp",
-      "bytes": 10720,
-      "hash": "163b405e46f91db37719b80295c11a55efacc7ed095003d59e810cc18c19798f"
+      "bytes": 21002,
+      "hash": "06b12b7b00e1c802f8982490cfefca2675c9ce04e17b636246bc56536d0cb227"
     },
     {
       "url": "studio-art/club-papaya-shoe.webp",
-      "bytes": 10670,
-      "hash": "1b37707996302b1e5bf595f6277d870e0fa2e52b71133313743a8cc6c38ea8a7"
+      "bytes": 21030,
+      "hash": "d9a3f0274a1f99e9e8ef68e46edf885367af89369516a9cf06c832354b19d9d1"
     },
     {
       "url": "studio-art/club-papaya-visor.webp",
@@ -621,28 +651,28 @@
     },
     {
       "url": "studio-art/club-rally-paddle--long.webp",
-      "bytes": 9606,
-      "hash": "e9d731c4a26efb6fe91beebf5bb6021496388b7745f753948598fb380f5221ac"
+      "bytes": 10162,
+      "hash": "59f197dcadc54a5da7693ede5a7ddce056285dcf639925186865a8e6683ddf5b"
     },
     {
       "url": "studio-art/club-rally-paddle--wide.webp",
-      "bytes": 10226,
-      "hash": "4e882e512a339f93c4691e96301733c266eda27fcebbbde4be0655ef17bc3773"
+      "bytes": 11312,
+      "hash": "021755a450e6bf4abbb9dbac182e98aeeb4638a20f1849be82b589bdddef4f47"
     },
     {
       "url": "studio-art/club-rally-paddle.webp",
-      "bytes": 9838,
-      "hash": "31a43d0ed51569c0433908391ff28f529b1f6298435e2b13c83d12944260f509"
+      "bytes": 10746,
+      "hash": "32b8280b9b4342c8859af528c2e31f1b746b9c0430b07130dbed6f3fbb2c55a0"
     },
     {
       "url": "studio-art/club-rally-shoe--female.webp",
-      "bytes": 9944,
-      "hash": "a916906ce0f90b5ee75292cc937a6b02aaf608776611a96a800e15679692b307"
+      "bytes": 20126,
+      "hash": "1d797903600971a7587538e1a8e4b85a9dcc9ba244f6cb1c367ab659f095bc12"
     },
     {
       "url": "studio-art/club-rally-shoe.webp",
-      "bytes": 9952,
-      "hash": "d9560ea547dfa228134679a5f146b5a4fda74f3fc3717c7b4b99331f8569350c"
+      "bytes": 20274,
+      "hash": "1bb3e18054bbe8fc0a54ed0b2178405a807c3c9b565fab1b612b163c63491a5a"
     },
     {
       "url": "studio-art/club-rally.webp",
@@ -691,28 +721,28 @@
     },
     {
       "url": "studio-art/club-riverside-paddle--long.webp",
-      "bytes": 9704,
-      "hash": "0919d33ec940d567cf6df3ea23edba50df94a38814f4413df1bc8b043b92a780"
+      "bytes": 10564,
+      "hash": "fc0423e3e0eb4035eddaa0854f0b1e4ea46826a4b45d9a0c22eb5714d0c69e42"
     },
     {
       "url": "studio-art/club-riverside-paddle--wide.webp",
-      "bytes": 10404,
-      "hash": "c7fb6737d3512449911687f3849751b030c5d2596d66e58aa0423b6eba671a00"
+      "bytes": 11666,
+      "hash": "85427c5f872217cba6129e69b07da5f7a0934ba2cfe87d4e3cd62b845a777492"
     },
     {
       "url": "studio-art/club-riverside-paddle.webp",
-      "bytes": 10082,
-      "hash": "953a6cf27aa28ec3751c32b93a1ff0a8edc59a5d534a7c59d54b1bc4e9c23f7c"
+      "bytes": 11266,
+      "hash": "186b13fda1eeec5929ec50b3d4b64652402508adb9c74b08772aef8fa9a2d147"
     },
     {
       "url": "studio-art/club-riverside-shoe--female.webp",
-      "bytes": 10114,
-      "hash": "26216d3001b528f23d20df597b3f3f3e0abaf51270f4834593e1efc29bfe0039"
+      "bytes": 19550,
+      "hash": "02b504ad70466b97bc7e872617c3646238f64d3b835b6e7b17d0ab473100d230"
     },
     {
       "url": "studio-art/club-riverside-shoe.webp",
-      "bytes": 9980,
-      "hash": "6bfd3ea9ce4a7a4902720d7a850497ecf1a68403850e8dcc340cbf646c006c3d"
+      "bytes": 19776,
+      "hash": "fdfa79d1aaede3c87d8b6aec38f4be9fd6be16787a89d8fa5c2d646fd9dde8c4"
     },
     {
       "url": "studio-art/club-riverside-wrist.webp",
@@ -766,18 +796,18 @@
     },
     {
       "url": "studio-art/club-rosewood-paddle--long.webp",
-      "bytes": 9788,
-      "hash": "eeefcaff816e48a4ae9efb92bcf1857d4ccdc838d5d27f2f66afde32c88a6ef7"
+      "bytes": 10404,
+      "hash": "afcb9d606e29ab04ba57eadbc9cf1e95ca0dcf50eab23fcc82326aa6d5583756"
     },
     {
       "url": "studio-art/club-rosewood-paddle--wide.webp",
-      "bytes": 10604,
-      "hash": "3ffe6c83281bd980df0a620edcb68692208a8b3f086f22dd16dd4588b1019b97"
+      "bytes": 11194,
+      "hash": "e95a91c167ee5d0b7600089deebd9d520a6e35567906b4c6e346105bbc98a765"
     },
     {
       "url": "studio-art/club-rosewood-paddle.webp",
-      "bytes": 10264,
-      "hash": "b7f4709fae26a01ed4bfaef4ca213d52f81530e910d66c8b0545c6a6d9082915"
+      "bytes": 10748,
+      "hash": "5b50154713977e49d5223bda157f26b67d419a69e70c787d83e5c684ead93262"
     },
     {
       "url": "studio-art/club-rosewood.webp",
@@ -821,28 +851,28 @@
     },
     {
       "url": "studio-art/club-terracotta-paddle--long.webp",
-      "bytes": 10178,
-      "hash": "db52ac909b4024dde276dc6d720e97332b62097f34ffd0d613e9b26f02e6ff9f"
+      "bytes": 10704,
+      "hash": "b626d19ee9758ab61ea367cc481e801eb12ab5d4834e5ca68bab9c8e47c4f6f7"
     },
     {
       "url": "studio-art/club-terracotta-paddle--wide.webp",
-      "bytes": 10914,
-      "hash": "c55e6f1047da0cc4f1724c59e7ee6ef60bb21f1dc193e158b79c98d15978d4cf"
+      "bytes": 11428,
+      "hash": "89002205ca6d877ae0147183c5cb0f5cf6aac5b40856724968c8848fc3a6a4e8"
     },
     {
       "url": "studio-art/club-terracotta-paddle.webp",
-      "bytes": 10516,
-      "hash": "caae98606f0fe2b955194a8da2247938f66f0ca5abe688cf367ea371cbc200ab"
+      "bytes": 11138,
+      "hash": "a160684a9b2ca2fbc52aa7549f398f54894786b6631bc554bf94a07a31651a37"
     },
     {
       "url": "studio-art/club-terracotta-shoe--female.webp",
-      "bytes": 10572,
-      "hash": "7d92cef57ed260942466b45a680bc7a7b104db8361bcf49f52b81d93a4394fa0"
+      "bytes": 21114,
+      "hash": "b682e7715bfe157643e688bc20ba81af5d7eb4edd887960198e54853972d42c6"
     },
     {
       "url": "studio-art/club-terracotta-shoe.webp",
-      "bytes": 10556,
-      "hash": "63caa30cd6fbff41cfdb814656931ad3e076cccb1b834ea6cfbc34a5378abd8c"
+      "bytes": 21248,
+      "hash": "879c2d6252bccbc6c502231fbd0351f73e859fb1dee84ba29fe0e41c4310e050"
     },
     {
       "url": "studio-art/club-terracotta-wrist.webp",
@@ -891,28 +921,28 @@
     },
     {
       "url": "studio-art/club-tideline-paddle--long.webp",
-      "bytes": 11236,
-      "hash": "c276cc93b5e15f4bf774f12c694fd65ccda94f4d177dd555f1148c8983811987"
+      "bytes": 11686,
+      "hash": "8e3a0302701c041ad754a403deb6c7e10ccbcd753d745a6b64b0c03e2296c2ac"
     },
     {
       "url": "studio-art/club-tideline-paddle--wide.webp",
-      "bytes": 12000,
-      "hash": "e702d7c6bdbb5a7f934d7f9fc9b7d0ec66e88e038086e415799f2cbb80962a4d"
+      "bytes": 12806,
+      "hash": "4e23496d0f1ea3f8a82303763036bd078fc28e24a5fbbe38d6e70422d61be04d"
     },
     {
       "url": "studio-art/club-tideline-paddle.webp",
-      "bytes": 12096,
-      "hash": "086b78284fc6dceb0ad5511a2338b256c2c4a388a4ddb0cd977030fb04d8e85c"
+      "bytes": 12288,
+      "hash": "8e7be690a105fd9754b1c9e2786e9fde5294084b792c080e79e6095340c60a66"
     },
     {
       "url": "studio-art/club-tideline-shoe--female.webp",
-      "bytes": 10080,
-      "hash": "e29d14d6004c17f2bd1508043378f80f9394c6d9ed17867a9043e7dd7f6c1c84"
+      "bytes": 19996,
+      "hash": "1dd57e167895c5398e14177f9f8ce1a489c93da386b1a31c9b77109fb73f6ad1"
     },
     {
       "url": "studio-art/club-tideline-shoe.webp",
-      "bytes": 9938,
-      "hash": "965f0782e7d352240eaf1dfd6a4b287bbe9cb98f0350313f477afc4f7743fcad"
+      "bytes": 20186,
+      "hash": "32bcaa4f1354fccd3e5bc642cb34eb3b6baf944937f5127496a3debbb18605d8"
     },
     {
       "url": "studio-art/club-tideline-visor.webp",
@@ -966,18 +996,18 @@
     },
     {
       "url": "studio-art/control--long.webp",
-      "bytes": 11432,
-      "hash": "865eb37a254a631682b037636af98166dfab0627914524b40d42c487a5e38960"
+      "bytes": 11748,
+      "hash": "b0c4bd55a29cd9261f41ce98f1c194b8d140ad81e27d67f1f17937d9d552f154"
     },
     {
       "url": "studio-art/control--wide.webp",
-      "bytes": 12286,
-      "hash": "d2ea30bae350db82aa43b457a87ca6cc1f7ebe47585d4086b214e916dd015d56"
+      "bytes": 12704,
+      "hash": "3e0e3df68c3ac54706a1319ae1e0615d6fbaaa1cf5f70f6b6cd2b5055842cd2f"
     },
     {
       "url": "studio-art/control.webp",
-      "bytes": 11982,
-      "hash": "9377332d5ce3d57ccbe2c3c69173072809d62075675ac5f23f2e824915d65466"
+      "bytes": 12302,
+      "hash": "401f56de6e8aab931cdad6d6674fbcce44fbd48ce3ee9a808125f8347c4a3dd4"
     },
     {
       "url": "studio-art/coral-cove--away.webp",
@@ -1021,13 +1051,13 @@
     },
     {
       "url": "studio-art/court--female.webp",
-      "bytes": 9750,
-      "hash": "b24b5229b62e2f91c763bdea8870487f19570211b4a496d6ce75d82164bd45a2"
+      "bytes": 19534,
+      "hash": "7e2df785e17d20e1f770a916a234c5a72e0e14691825b66f07825ba7040e9844"
     },
     {
       "url": "studio-art/court.webp",
-      "bytes": 9534,
-      "hash": "4dad17d246fc3dd74698612819444116ef27238348638f6448f2d33dc849eef0"
+      "bytes": 19688,
+      "hash": "eb801586436dc133d515e6af52fe9734fe6dc2867c3bcadc87e8a23b92dc4e4b"
     },
     {
       "url": "studio-art/cup-duo-kit--away.webp",
@@ -1071,18 +1101,18 @@
     },
     {
       "url": "studio-art/cup-solo-paddle--long.webp",
-      "bytes": 9736,
-      "hash": "ebb899f51a5944752dd80d1d8eb6ff695e87470d5fb649c9f015ae8befb42c96"
+      "bytes": 9310,
+      "hash": "a9211aedf4e38db231e06cfc48db4873931ec78fb3856b0f3c12be9cddacd78d"
     },
     {
       "url": "studio-art/cup-solo-paddle--wide.webp",
-      "bytes": 10292,
-      "hash": "e580a434b11b2269c41b77bec3da9a214b7101f041277a8c148dbb6b1a5e7272"
+      "bytes": 10414,
+      "hash": "893e8ff1246fa074d79b76a5c7dde4555c39682e9e00e273da8c619d90c54eb5"
     },
     {
       "url": "studio-art/cup-solo-paddle.webp",
-      "bytes": 9938,
-      "hash": "740aa85f5bb930c7c2fd4ad9e8046b18fd073f54ee48379b543325ed19e96892"
+      "bytes": 9846,
+      "hash": "128f189493faf65d765201de7ae94958697f6d2af80a9d007460ffc0e5dacf8e"
     },
     {
       "url": "studio-art/ember-circuit--away.webp",
@@ -1166,18 +1196,18 @@
     },
     {
       "url": "studio-art/ink--female.webp",
-      "bytes": 8398,
-      "hash": "47f4abb7c5415f702ce8a5cd618e8980ec574074492d94b4ae14dbb103c1adfb"
+      "bytes": 17992,
+      "hash": "3bb15eaf52307684e68927b87499e7cf75b6123980ad3157cd9afe96d1b1aa33"
     },
     {
       "url": "studio-art/ink.webp",
-      "bytes": 8550,
-      "hash": "160946976db3d16d57ac8b102a00584bf8b45e6f3c1ebc31ff8ed6c5aa19a006"
+      "bytes": 18284,
+      "hash": "75ffcce9b6646ad5d93fe63ac24c9cc228ccf7ca0681ad1a37db6779b02ac281"
     },
     {
       "url": "studio-art/ivory--female.webp",
-      "bytes": 9932,
-      "hash": "18492ba31ae6026812983bafb60672019483997018f939e41e7b8df89c72bb50"
+      "bytes": 19322,
+      "hash": "3899d9876a96543ed44cc3064fe211d8a3e2ee4e39635cc04ed4fad5668f75c2"
     },
     {
       "url": "studio-art/ivory-rally--away.webp",
@@ -1221,33 +1251,33 @@
     },
     {
       "url": "studio-art/ivory.webp",
-      "bytes": 9886,
-      "hash": "91f462f42823f48dd1dff326d126c6b726f4cfb26d9350eefb533b173bfefd02"
+      "bytes": 19430,
+      "hash": "eaf31d2eb390fc7b1ccb50865e64133573f08e569f8a4a253493729694b62ed2"
     },
     {
       "url": "studio-art/journey-angle-paddle--long.webp",
-      "bytes": 8838,
-      "hash": "9f487d5b8acc19b45c4ffe4f88e6f46eed2359c45160cb212d569984f2fa8329"
+      "bytes": 9326,
+      "hash": "ca156df928acc490f760da4991aa0d2d6cb95e6532bde43ddb10c3f203176d7f"
     },
     {
       "url": "studio-art/journey-angle-paddle--wide.webp",
-      "bytes": 9498,
-      "hash": "dcd46c4de231b00ca9429aaac579bf190d7b9812ed55d39cbc596b697d2c281f"
+      "bytes": 10632,
+      "hash": "ab744227b6af7a4184f06531819f70d3ae8e955e3c3cf01a8c15cb4177d3229d"
     },
     {
       "url": "studio-art/journey-angle-paddle.webp",
-      "bytes": 9134,
-      "hash": "33a43aefd1cbd6f221a6a88c3be5c1aface411550ced8f9ce5edfa00a705e5a6"
+      "bytes": 9906,
+      "hash": "3589aa90f6fcc000141d8e8bd3e279a9481db14c962e9c45119c39d3e30a4442"
     },
     {
       "url": "studio-art/journey-baseline-shoe--female.webp",
-      "bytes": 10100,
-      "hash": "4d27a38ef7b55c854ad2e29b171c581c1ec92268b5f0d6652d9bb875aa9641d1"
+      "bytes": 19734,
+      "hash": "ce94cfe8a292ca10cba72cab540694879acb00680757730094b3edfc25338ed2"
     },
     {
       "url": "studio-art/journey-baseline-shoe.webp",
-      "bytes": 10042,
-      "hash": "93e9bb66cdb840dbcf55ffb1c971be26dbf445cb3e0487861961604e61304239"
+      "bytes": 19890,
+      "hash": "10b9495a0fa72671d766fc589c47f7b34ee4d4ecf9e30875e1b889f3ed5b0b65"
     },
     {
       "url": "studio-art/journey-champion--away.webp",
@@ -1301,48 +1331,48 @@
     },
     {
       "url": "studio-art/journey-pressure-paddle--long.webp",
-      "bytes": 9686,
-      "hash": "e423c35955ff7c058e9c887b1adfebdc7d3d746a0157b832f2c9d41e9a2dc825"
+      "bytes": 9218,
+      "hash": "b2e1e99570a6e99177d8713db6a8a2638a1e00d70134fddeb0997c70e533e451"
     },
     {
       "url": "studio-art/journey-pressure-paddle--wide.webp",
-      "bytes": 10418,
-      "hash": "b8352c313914bf64257e48d75e1c044be4cd40e9a30216275ab38b65e30aca58"
+      "bytes": 10120,
+      "hash": "30435a49a723879ecf3ea2d36da12ef0a5f18fea73374b4e33e9b7128d62d2e6"
     },
     {
       "url": "studio-art/journey-pressure-paddle.webp",
-      "bytes": 10024,
-      "hash": "b914fb9330ea6f87d88a3678872f596b31dd7b59ce7d3e2ad4ddf452cc75ae1a"
+      "bytes": 9744,
+      "hash": "47ab7e22a9989009301b605a5bfcd3a5bc1f2db9ebffb6a5fb4a02d11a8fa942"
     },
     {
       "url": "studio-art/light--long.webp",
-      "bytes": 13318,
-      "hash": "d1a0d780e88c2c66366e51f59fa098d3703723186516e8d2c5daadd0edf6aaf0"
+      "bytes": 15224,
+      "hash": "743c25f7e196214642ebb08961c52494365a234dacb43402bc9feaee6fd8092d"
     },
     {
       "url": "studio-art/light--wide.webp",
-      "bytes": 14122,
-      "hash": "252efc12954309b7e95194ff9965c6dd921016b9ce146d4e1a58e45a4a36523b"
+      "bytes": 17878,
+      "hash": "34f2a6897f2506f7fca6af4fc3d5f8782cd0fb1e4b9ff7d1290286ef1c1cb58d"
     },
     {
       "url": "studio-art/light.webp",
-      "bytes": 14012,
-      "hash": "d6cbb9c20b4b6cca2111ec1d4def8fd372f3b4188dec71e89297348489211a8d"
+      "bytes": 16014,
+      "hash": "01a3edaf93df90e336941e1ca70ef515c14298bd98ef38e06dfadc582fc90d85"
     },
     {
       "url": "studio-art/long--long.webp",
-      "bytes": 9642,
-      "hash": "2b201dab15bbc18816d831bb77343e645c1daf7d629e3104f6adc123fe3cf426"
+      "bytes": 9814,
+      "hash": "2ae8a3cc56f7faea3e1e5b2c204630db81b194cdbc127a426369172a27944eaa"
     },
     {
       "url": "studio-art/long--wide.webp",
-      "bytes": 10414,
-      "hash": "e480eaa83be0c5fd964a3d9ec1d64bd7f4fd3b03066546f1aa65766f56876fd0"
+      "bytes": 10652,
+      "hash": "1f64c6da1d78b4156f261bcc9d39c5b840d9ea8b324c390a6433fe20e6c8c266"
     },
     {
       "url": "studio-art/long.webp",
-      "bytes": 10154,
-      "hash": "2479731d6989cea502340199f7e6b2e6d377e0cda85efc0f50c355ecc0b2e917"
+      "bytes": 10198,
+      "hash": "7cbdf436c5008898760ea4d08de77ea7e093217b2dfeeab40b7f96bd55a63460"
     },
     {
       "url": "studio-art/midnight-grid--away.webp",
@@ -1431,18 +1461,18 @@
     },
     {
       "url": "studio-art/power--long.webp",
-      "bytes": 8510,
-      "hash": "6411552a002ce4b48b76f0be445debb6c0d13a7d918b45540b4264ca20a5fb5b"
+      "bytes": 8354,
+      "hash": "7aa9830845b514d0340b9020282d674d78ad504be348e5fd69466c9022fc1630"
     },
     {
       "url": "studio-art/power--wide.webp",
-      "bytes": 9160,
-      "hash": "a37a81df1137dd46b9f1dc28afd3a8b05d26938427a36bee7d494299ec3de8f4"
+      "bytes": 9032,
+      "hash": "d8bfaea9168152621c81a053260754b138065186bafac63fd0de11ab781c1d41"
     },
     {
       "url": "studio-art/power.webp",
-      "bytes": 8854,
-      "hash": "b7d0db914daed42175d4edd7c4d487ca42c73edc4e9ea8be5483b0a462a53852"
+      "bytes": 8620,
+      "hash": "3213b516de0ea6c07d49c31a2226cdb0b019d3bc62c8bc123cb9e3b254c1315b"
     },
     {
       "url": "studio-art/shot-block.webp",
@@ -1491,33 +1521,33 @@
     },
     {
       "url": "studio-art/spin--long.webp",
-      "bytes": 8856,
-      "hash": "c125b71a219c52cf02132ad14f30c725746a5aa806dd97bbe37d7aa69cf65e29"
+      "bytes": 9758,
+      "hash": "bc1766ee833dfa3bc39914df44077779d01ef2afbb2f2561533c7eec410b8a37"
     },
     {
       "url": "studio-art/spin--wide.webp",
-      "bytes": 9524,
-      "hash": "ced380c535d4a53db65903d220e6f4f695e9c686d020232578566245f2495c5f"
+      "bytes": 10566,
+      "hash": "b8061a81c1268fb973a5f9b331cc269d8179ac3b9c25551257a675fef7148bba"
     },
     {
       "url": "studio-art/spin.webp",
-      "bytes": 9210,
-      "hash": "a1a5fd19dded8db04f05b367b0fd9bd29d7085502744cac72d403ba493316e49"
+      "bytes": 10248,
+      "hash": "a8b903493eeeb5f2c1d61422415753b7e2f881651f31edba4735891bc56c5068"
     },
     {
       "url": "studio-art/standard--long.webp",
-      "bytes": 8920,
-      "hash": "f162521f91c925643e79b68ea7be6a84af78f6476d164544015ca3b1f6049d27"
+      "bytes": 8662,
+      "hash": "80288c128ca9721293c689ed4aab85fc6062f13bae0e7b9fbe47fb4714d4c66b"
     },
     {
       "url": "studio-art/standard--wide.webp",
-      "bytes": 9426,
-      "hash": "e2d9014c23ac5eae06e6c1f84cb55ccc405895ffccb43dbff058e104ddfdbb01"
+      "bytes": 9540,
+      "hash": "17f4ae217abfaf97c9f2849a37cb1508b01eea40c67f7f4da9cd0ae99caabad3"
     },
     {
       "url": "studio-art/standard.webp",
-      "bytes": 9144,
-      "hash": "deb97f1c0610a9150d13adb75314f20b3b042afe0c8859416f77d4b9823f89e8"
+      "bytes": 9054,
+      "hash": "8aba81c116d5b3b23f3b1a59fcd085639c2fffc965c3076f11f4ad08bc366c2a"
     },
     {
       "url": "studio-art/tidal-club--away.webp",
