@@ -1,7 +1,7 @@
 {
   "version": "0.52.0-online-doubles",
-  "digest": "5326c4a6f1907041",
-  "bytes": 23622159,
+  "digest": "8ea897f8b9c6a28c",
+  "bytes": 23622223,
   "files": [
     {
       "url": "app/apple-touch-icon.png",
@@ -19,14 +19,14 @@
       "hash": "cbad7578fa9f5f7df51372a0e860cecdf989ac3c3cab41fa72bf69b45bc1534b"
     },
     {
-      "url": "assets/game-DfiDmK-o.js",
+      "url": "assets/game-D06JmAs2.js",
       "bytes": 1369,
-      "hash": "cce753f5bc19ea93d6e10a45a21820dc49812115d5110071f0957fcb0e657b04"
+      "hash": "ce9930ec7f8852eda54adc5272cd9dfed551475ecc4606b4836200499f54a065"
     },
     {
-      "url": "assets/main-ByNKvBSo.js",
-      "bytes": 2399072,
-      "hash": "553d50a58c81510678251b87fa226bdaae55f4fdd7e679b718def9a71f9ac0b0"
+      "url": "assets/main-9sxdAmXj.js",
+      "bytes": 2399136,
+      "hash": "fb3c9e59ba4ef7de287bd1df92317f2a684a3587b71a0d84d2860b3e194a7fff"
     },
     {
       "url": "assets/main-N7PxROLy.css",
@@ -226,7 +226,7 @@
     {
       "url": "index.html",
       "bytes": 2745,
-      "hash": "247b553175636597921f04a7352c126c2084a2efb215c9d3ea662673b49a8cd6",
+      "hash": "72e1ee836248d2c602328285a33882a126e93adfe64e775eaa16a0c5ac491030",
       "documentSource": "game-shell.bin"
     },
     {
